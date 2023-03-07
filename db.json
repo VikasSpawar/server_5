@@ -114,12 +114,6 @@
 		"language": "Java"
 	}
 ],
-"task_manager_app_users":[{
-  "email":"Vikas@123",
-  "username":"vikas",
-  "password":"1234"
-},{ "email":"Vilas@123",
-  "username":"vilas",
-  "password":"4321"}],
+"task_manager_app_users":[],
 "task_manager_app_tasks":[]
   }
